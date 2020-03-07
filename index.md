@@ -1,4 +1,4 @@
-<center> ![Image](Avatar.jpg) </center>
+![Image](Avatar.jpg) 
 ## Welcome to TianshuoZhang's online portfolio Pages
 
 [editor on GitHub](https://github.com/TianshuoZ/TianshuoZ.github.io/edit/master/index.md) 
