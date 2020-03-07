@@ -1,9 +1,9 @@
-
+![Image](Avatar.jpg) 
 
 ## Welcome to TianshuoZhang's online portfolio Pages
 
 <div align="center">
-  [Image](Avatar.jpg) 
+ <img src="Avatar.jpg" /> 
 </div>
 
 [editor on GitHub](https://github.com/TianshuoZ/TianshuoZ.github.io/edit/master/index.md) 
