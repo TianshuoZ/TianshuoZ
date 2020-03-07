@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+![Image](Avatar.jpg)
+## Welcome to TianshuoZhang's online portfolio Pages
 
 [editor on GitHub](https://github.com/TianshuoZ/TianshuoZ.github.io/edit/master/index.md) 
+
+
 
 # CAREER STATEMENT
 ### Desirous of an Software Engineer role in a challenging workplace that welcomes innovative ideas and offers growth opportunities and positive environment for accomplishing projects. A variety of computer language development experiences (C++, C, Python, Java, JavaScript, PHP, NetLogo). Have a variety of professional software tools experience (IntelliJ IDEA, Git, Visual Studio 2017). Participated in the employee login system during the internship(PHP). Participated and completed The rescue robot project, The park public facility reservation app, and The software project unusual event detection system during the Master degree. Powerful algorithm construction and implementation strength. Rigorous logic analysis strength. Hold M.Tech in Software Engineering from The University of Adelaide(GPA: 5.0). 
@@ -15,7 +18,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](Avatar.jpg)
+[Link](url) and 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
